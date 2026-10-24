@@ -67,21 +67,16 @@ A privacy-focused application concept exploring app permissions and user awarene
 
 I use open source to learn collaborative development, work with existing codebases, and contribute improvements.
 
-## 📊 GitHub Activity
+## GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dishamaurya081-create&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishamaurya081-create&layout=compact&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9" height="165" alt="Most used programming languages" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dishamaurya081-create&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishamaurya081-create&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=dishamaurya081-create&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-<div align="center">
+<p align="center">
+  <sub>Building consistently. Learning continuously.</sub>
+</p>
 
 **Always learning. Always building. 🚀**
 
